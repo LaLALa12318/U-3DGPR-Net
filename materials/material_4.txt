@@ -1,0 +1,75 @@
+#material: 5.1 0.0012 1 0 liqing1
+#material: 5.13 0.0013 1 0 liqing2
+#material: 4.95 0.0015 1 0 liqing3
+
+#material: 4.99 0.002 1 0 liqing4
+#material: 5.2 0.0027 1 0 liqing5
+#material: 5.25 0.0014 1 0 liqing6
+
+#material: 5.08 0.0008 1 0 liqing7
+#material: 5.01 0.001 1 0 liqing8
+#material: 4.95 0.0007 1 0 liqing9
+#material: 4.9 0.00012 1 0 liqing10
+#material: 5.18 0.0009 1 0 liqing11
+
+
+#material: 7.56 0.0013 1 0 suishi1
+#material: 7.62 0.0015 1 0 suishi2
+#material: 7.52 0.001 1 0 suishi3
+#material: 7.68 0.00098 1 0 suishi4
+#material: 7.49 0.0009 1 0 suishi5
+#material: 7.54 0.00093 1 0 suishi6
+
+#material: 7.8 0.0014 1 0 suishi7
+#material: 7.76 0.0018 1 0 suishi8
+#material: 7.91 0.0011 1 0 suishi9
+#material: 7.6 0.00015 1 0 suishi10
+#material: 7.85 0.00115 1 0 suishi11
+
+#material: 7.58 0.0013 1 0 suishi12
+#material: 8.01 0.0011 1 0 suishi13
+#material: 7.93 0.00125 1 0 suishi14
+#material: 8.05 0.0012 1 0 suishi15
+#material: 7.98 0.0008 1 0 suishi16
+
+#material: 9.3 0.0016 1 0 lishi1
+#material: 9.2 0.0014 1 0 lishi2
+
+#material: 9.01 0.0011 1 0 lishi3
+#material: 9.31 0.001 1 0 lishi4
+#material: 9.15 0.0012 1 0 lishi5
+#material: 8.95 0.0013 1 0 lishi6 
+
+#material: 9.3 0.0012 1 0 tu1
+#material: 9.25 0.001 1 0 tu2
+#material: 9.18 0.0015 1 0 tu3
+#material: 8.9 0.00099 1 0 tu4
+#material: 9.45 0.0011 1 0 tu5
+#material: 9.06 0.0013 1 0 tu6 
+
+#material: 9.5 0.0013 1 0 tu7
+#material: 8.93 0.0014 1 0 tu8
+#material: 9.18 0.0015 1 0 tu9
+#material: 9.22 0.0021 1 0 tu10
+#material: 9.32 0.0016 1 0 tu11
+
+#material: 9.28 0.0008 1 0 tu12
+#material: 9.13 0.0019 1 0 tu13
+#material: 9.17 0.0025 1 0 tu14
+#material: 8.94 0.0012 1 0 tu15
+
+#material: 19.5 0.004 1 0 layerBase
+
+#material: 16.8 0.0024 1 0 layer1
+#material: 18 0.003 1 0 layer2
+#material: 17.6 0.0029 1 0 layer3
+
+#material: 61 10000000 620 0 steel
+#material: 5 0.00000001 1 0 pvc
+
+#material: 1 0 1 0 air
+#material: 8.3 0.0015 1 0 water
+
+#material: 64 2.5 1 0 pipeWater
+
+#material: 50 18000000 550 0 manhole

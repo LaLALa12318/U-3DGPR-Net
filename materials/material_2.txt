@@ -1,0 +1,75 @@
+#material: 5 0.001 1 0 liqing1
+#material: 5.1 0.002 1 0 liqing2
+#material: 5.4 0.002 1 0 liqing3
+
+#material: 4.8 0.002 1 0 liqing4
+#material: 5.2 0.003 1 0 liqing5
+#material: 4.9 0.001 1 0 liqing6
+
+#material: 4.0 0.0003 1 0 liqing7
+#material: 3.8 0.0001 1 0 liqing8
+#material: 5.6 0.0005 1 0 liqing9
+#material: 4.3 0.0002 1 0 liqing10
+#material: 5.9 0.0004 1 0 liqing11
+
+
+#material: 7.2 0.001 1 0 suishi1
+#material: 7.5 0.001 1 0 suishi2
+#material: 7.9 0.0009 1 0 suishi3
+#material: 6.9 0.0008 1 0 suishi4
+#material: 7.3 0.0009 1 0 suishi5
+#material: 7.4 0.001 1 0 suishi6
+
+#material: 6.8 0.001 1 0 suishi7
+#material: 7.7 0.0006 1 0 suishi8
+#material: 7.6 0.0006 1 0 suishi9
+#material: 8.0 0.0007 1 0 suishi10
+#material: 7.1 0.0008 1 0 suishi11
+
+#material: 8.2 0.001 1 0 suishi12
+#material: 7.8 0.0009 1 0 suishi13
+#material: 8.3 0.0012 1 0 suishi14
+#material: 8.4 0.0013 1 0 suishi15
+#material: 8.1 0.0008 1 0 suishi16
+
+#material: 9.5 0.0013 1 0 lishi1
+#material: 8.6 0.0016 1 0 lishi2
+
+#material: 9.1 0.0012 1 0 lishi3
+#material: 9.6 0.0008 1 0 lishi4
+#material: 9.4 0.0009 1 0 lishi5
+#material: 9.3 0.001 1 0 lishi6 
+
+#material: 8.5 0.0013 1 0 tu1
+#material: 9.2 0.0006 1 0 tu2
+#material: 9.5 0.0002 1 0 tu3
+#material: 8.7 0.0005 1 0 tu4
+#material: 9.0 0.0009 1 0 tu5
+#material: 9.9 0.0013 1 0 tu6 
+
+#material: 10 0.0011 1 0 tu7
+#material: 10.1 0.001 1 0 tu8
+#material: 9.9 0.0006 1 0 tu9
+#material: 11 0.002 1 0 tu10
+#material: 10.3 0.0007 1 0 tu11
+
+#material: 10.5 0.0015 1 0 tu12
+#material: 8.9 0.0003 1 0 tu13
+#material: 9.0 0.0004 1 0 tu14
+#material: 8.1 0.0005 1 0 tu15
+
+#material: 19 0.002 1 0 layerBase
+
+#material: 11 0.0023 1 0 layer1
+#material: 13 0.0014 1 0 layer2
+#material: 15 0.0016 1 0 layer3
+
+#material: 60 10000000 620 0 steel
+#material: 4.5 0.00000001 1 0 pvc
+
+#material: 1 0 1 0 air
+#material: 8.1 0.001 1 0 water
+
+#material: 65 0.03 1 0 pipeWater
+
+#material: 40 10000000 400 0 manhole
